@@ -1,11 +1,11 @@
 {
-  "name": "the-watch-shot-05",
+  "name": "watch-stas",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/the-watch-shot-05/",
+    "build": "vite build --base=/watch-stas/",
     "preview": "vite preview"
   },
   "devDependencies": {
